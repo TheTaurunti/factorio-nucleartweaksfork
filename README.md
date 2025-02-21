@@ -1,5 +1,7 @@
 # Eveything Narrative's Nuclear Tweaks for Nicer Ratios
 
+(This mod has been forked for 2.0 by Taurunti, all code and explanations by original author "everything-narrative".)
+
 This is a standalone mod to reduce the difficulty associated with nuclear power by making
 the numbers nice and round.
 
