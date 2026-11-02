@@ -1,10 +1,10 @@
 {
   "name": "NuclearTweaksFork",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "title": "Nuclear Tweaks for Nicer Ratios (Fork)",
   "author": "Taurunti",
   "contact": "thetaurunti@gmail.com",
-  "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0"],
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1"],
   "description": "Tweaking the values for nuclear power to make ratios much nicer."
 }

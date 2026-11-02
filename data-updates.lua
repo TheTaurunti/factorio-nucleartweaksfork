@@ -21,7 +21,7 @@ data.raw.boiler['heat-exchanger'].energy_source.min_working_temperature = high_t
 data.raw.generator['steam-turbine'].maximum_temperature = high_temperature
 data.raw.generator['steam-turbine'].energy_source.max_temperature = high_temperature
 
--- The ratio of offshore pumps to hx's is 1:10 (1:100 as of 2.0 changes to steam)
+-- The ratio of offshore pumps to hx's is 1:100
 -- The ratio of hx's to turbines is 1:2
 -- These values are exact and derived by the game
 -- local heat_exchanger_fluid_consumption_per_second = 120
